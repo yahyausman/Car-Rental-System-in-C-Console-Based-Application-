@@ -1,2 +1,20 @@
-# Car-Rental-System-in-C-Console-Based-Application-
-A simple Car Rental System built in C++, allowing users to rent and return cars with a structured menu system. The project includes file handling, input validation, and an admin-customer login system for efficient car management.
+# Car Rental System in C++  
+
+## Project Overview  
+This is a **console-based Car Rental System** built in **C++**. It allows users to:  
+✅ View available cars  
+✅ Rent a car by entering personal details  
+✅ Choose a payment method (Cash/Card)  
+✅ Return a rented car with a condition check  
+✅ Admin login to manage rentals  
+
+## Features  
+- **Customer & Admin Login** for role-based access  
+- **Car availability tracking**  
+- **Rental cost calculation** based on the number of days  
+- **File handling** to store rental records  
+- **Input validation** for secure user interaction  
+
+## File Structure  
+- Car-Rental-System ├── 📄 carRentalSystem_project.cpp
+- Main source code ├── 📄 car_rental_data.txt
